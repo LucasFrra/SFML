@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "thread": "cpp",
+        "chrono": "cpp",
+        "fstream": "cpp"
+    }
+}
