@@ -1,5 +1,5 @@
 ### Start this project
-This project was realised by Lucas Ferreira with SFML library in C#
+This project was realised by Lucas Ferreira with SFML library in C++
 
 ## How ?
 
